@@ -15,4 +15,5 @@
 
 ## Maintaining these docs
 
-Keep both files short and factual, derived only from repo files. Do not add content describing functionality this repo does not have.
+Keep both files short and factual, derived only from repo files. Do not
+add content describing functionality this repo does not have.
