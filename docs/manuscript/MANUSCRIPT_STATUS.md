@@ -9,10 +9,10 @@ analysis outputs, or figures anywhere in the checkout).
 
 **Why no publication-target manuscript applies today:** the repository
 exists solely to validate the template monorepo's unified release
-orchestrator (`scripts/publish_project_release.py`) end-to-end on GitHub.
-It carries no research content, data, or analysis; its releases attach
-rendered PDFs from the template workspace and are explicitly marked
-"do not cite".
+orchestrator (`scripts/publish/publish_project_release.py`) end-to-end on
+GitHub. It carries no research content, data, or analysis; its releases
+attach rendered PDFs from the template workspace and are explicitly
+marked "do not cite".
 
 **What would trigger creating one:** none foreseeable while the repo
 serves its smoke-test purpose. A manuscript would only apply if the repo

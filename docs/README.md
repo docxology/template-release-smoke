@@ -6,12 +6,12 @@ Human-facing documentation entry point. Agent-facing rules:
 ## What this repo is
 
 Public integration smoke-test repository for the docxology/template unified
-release orchestrator (`scripts/publish_project_release.py` in the template
-monorepo). It exists only to validate end-to-end GitHub release creation
-and asset upload during automated publishing tests. Releases attach
-rendered manuscript PDFs from the template workspace; they do not mirror
-template source code. Do not cite releases or Zenodo records created from
-this smoke test (from `../README.md`).
+release orchestrator (`scripts/publish/publish_project_release.py` in the
+template monorepo). It exists only to validate end-to-end GitHub release
+creation and asset upload during automated publishing tests. Releases
+attach rendered manuscript PDFs from the template workspace; they do not
+mirror template source code. Do not cite releases or Zenodo records
+created from this smoke test (from `../README.md`).
 
 ## Repository contents
 

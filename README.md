@@ -1,6 +1,6 @@
 # template-release-smoke
 
-Public integration smoke-test repository for the [docxology/template](https://github.com/docxology/template) unified release orchestrator (`scripts/publish_project_release.py`).
+Public integration smoke-test repository for the [docxology/template](https://github.com/docxology/template) unified release orchestrator (`scripts/publish/publish_project_release.py`).
 
 ## Purpose
 
