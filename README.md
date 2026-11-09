@@ -12,3 +12,7 @@ This repository exists only to validate end-to-end GitHub release creation and a
 
 - Template repository: https://github.com/docxology/template
 - Publishing guide: https://github.com/docxology/template/blob/main/docs/guides/publishing-guide.md
+
+## License
+
+Released under the [MIT License](LICENSE).
