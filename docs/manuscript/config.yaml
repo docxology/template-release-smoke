@@ -1,0 +1,12 @@
+paper:
+  title: "The Template Release Smoke Fixture"
+  subtitle: "Integration scope and local verification"
+authors:
+  - name: "docxology"
+render:
+  formats:
+    pdf: true
+    html: true
+    slides: false
+    docx: false
+    epub: false
